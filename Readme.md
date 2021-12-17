@@ -1,5 +1,5 @@
 ## WEB STYLERS
-[click this to live preview our site](url)
+[click this to live preview our site](https://stupefied-fermi-a72b5a.netlify.app/)
 
 # Members of Web Stylers
 
